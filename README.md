@@ -16,11 +16,10 @@ Este é um projeto simples de uma galeria desenvolvida como parte de um minicurs
 
 - Uso de mídia para responsividade: O projeto utiliza consultas de mídia (media queries) para tornar a galeria responsiva, ajustando o layout e os estilos para diferentes tamanhos de tela e dispositivos.
 
-## Instalação
+## Como executar o projeto
 
-1. Clone este repositório para o seu ambiente local.
-2. Certifique-se de ter o Sass instalado em seu sistema.
-3. Navegue até o diretório do projeto e execute o comando `sass input.scss output.css`, onde `input.scss` é o arquivo principal do Sass e `output.css` é o arquivo CSS resultante.
+1. Faça o clone deste repositório.
+2. Abra o arquivo `index.html` em um navegador web.
 
 ## Contribuição
 
